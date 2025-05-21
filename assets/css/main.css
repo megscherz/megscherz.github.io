@@ -29,18 +29,18 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-experience-block {
+.experience-block {
 	margin-bottom: 2.5rem;
 	}
 	
-experience-block h3 span {
+.experience-block h3 span {
 	font-weight: normal;
 	font-size: 0.85em;
 	color: #888;
 	margin-left: 0.5em;
 	}
 	
-experience-block ul {
+.experience-block ul {
 	margin-top: 0.5rem;
 	padding-left: 1.2rem;
 	}
@@ -2656,7 +2656,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			width: 40%;
+			width: 50%;
 			max-width: 10rem;
 		}
 
