@@ -2656,7 +2656,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			width: 50%;
+			width: 40%;
 			max-width: 10rem;
 		}
 
